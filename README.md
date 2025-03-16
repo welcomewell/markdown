@@ -1,4 +1,4 @@
-[Python-Markdown][]
+[Python-Markdown][build]
 ===================
 
 [![Build Status][build-button]][build]
